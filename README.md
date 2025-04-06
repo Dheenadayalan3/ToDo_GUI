@@ -13,7 +13,7 @@ It helps you manage your daily tasks with a minimalist GUI.
 
 ## 🖼️ Screenshot
 
-![Screenshot](screenshot.png) <!-- Add an actual screenshot image later -->
+![Screenshot](![image](https://github.com/user-attachments/assets/e8e57a92-30f4-4ac1-a591-c87f0ad20b5e)) <!-- Add an actual screenshot image later -->
 
 ## 📦 Requirements
 
