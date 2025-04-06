@@ -1,0 +1,2 @@
+iqwhaoifhwesldvf = open('foo.txt', 'rt')     # Open for reading (text)
+g = open('bar.txt', 'wt')     # Open for writing (text)
