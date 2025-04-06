@@ -1,2 +1,4 @@
 learn GPU prgramming
 learn Optimization
+Work out
+learn ML
